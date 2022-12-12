@@ -25,7 +25,7 @@ switch (inputArr[0]) {
 }
 //creating and defining each function
 function help() {
-    console.log("commands available:\ntree dirpath\norganise dirpath\n");
+    console.log("commands available:\nnode mainn.js tree dirpath\nnode mainn.js organise dirpath\n");
 }
 
 function organise(dirpath) {
