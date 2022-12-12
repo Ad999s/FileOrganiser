@@ -1,6 +1,5 @@
 # FileOrganiser
 Imlemented in nodejs
-
-Usage:
+run command:
 
 node mainn.js help (to print commands)
